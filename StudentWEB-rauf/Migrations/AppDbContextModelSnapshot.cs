@@ -45,8 +45,9 @@ namespace StudentWEB_rauf.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("CodeName")
-                        .HasColumnType("int");
+                    b.Property<string>("Code")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("CreatedDate")
                         .HasColumnType("datetime2");
@@ -166,8 +167,8 @@ namespace StudentWEB_rauf.Migrations
                     b.Property<int>("PointType")
                         .HasColumnType("int");
 
-                    b.Property<double>("Result")
-                        .HasColumnType("float");
+                    b.Property<decimal>("Result")
+                        .HasColumnType("decimal(18,2)");
 
                     b.Property<int>("StudentId")
                         .HasColumnType("int");
@@ -217,7 +218,7 @@ namespace StudentWEB_rauf.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("StudentId")
+                    b.Property<string>("StudentCode")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -264,8 +265,8 @@ namespace StudentWEB_rauf.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<double>("Salary")
-                        .HasColumnType("float");
+                    b.Property<decimal>("Salary")
+                        .HasColumnType("decimal(18,2)");
 
                     b.Property<string>("Surname")
                         .IsRequired()
@@ -296,7 +297,7 @@ namespace StudentWEB_rauf.Migrations
                     b.Property<int>("Delated")
                         .HasColumnType("int");
 
-                    b.Property<string>("Name")
+                    b.Property<string>("Description")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 

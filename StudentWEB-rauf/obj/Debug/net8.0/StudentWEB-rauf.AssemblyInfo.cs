@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudentWEB-rauf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d3c36ba0fc8bc374a819251870b311f5296fdee")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudentWEB-rauf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudentWEB-rauf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

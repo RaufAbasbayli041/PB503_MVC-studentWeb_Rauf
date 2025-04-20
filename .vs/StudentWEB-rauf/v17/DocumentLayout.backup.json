@@ -1,22 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\Rauf\\StudentWeb\\StudentWEB-rauf\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\StudentWeb\\StudentWEB-rauf\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8F6D092-9A65-49C5-A378-D81505930FFF}|StudentWEB-rauf\\StudentWEB-rauf.csproj|c:\\users\\asus\\desktop\\code academy\\c#\\mvc\\rauf\\studentweb\\studentweb-rauf\\studentweb-rauf\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8F6D092-9A65-49C5-A378-D81505930FFF}|StudentWEB-rauf\\StudentWEB-rauf.csproj|solutionrelative:studentweb-rauf\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\StudentWeb\\StudentWEB-rauf\\StudentWEB-rauf\\Migrations\\20250419115857_12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentWEB-rauf\\Migrations\\20250419115857_12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8F6D092-9A65-49C5-A378-D81505930FFF}|StudentWEB-rauf\\StudentWEB-rauf.csproj|c:\\users\\asus\\desktop\\code academy\\c#\\mvc\\rauf\\studentweb\\studentweb-rauf\\studentweb-rauf\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E8F6D092-9A65-49C5-A378-D81505930FFF}|StudentWEB-rauf\\StudentWEB-rauf.csproj|c:\\users\\asus\\desktop\\code academy\\c#\\mvc\\studentweb\\studentweb-rauf\\studentweb-rauf\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8F6D092-9A65-49C5-A378-D81505930FFF}|StudentWEB-rauf\\StudentWEB-rauf.csproj|solutionrelative:studentweb-rauf\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F6D092-9A65-49C5-A378-D81505930FFF}|StudentWEB-rauf\\StudentWEB-rauf.csproj|c:\\users\\asus\\desktop\\code academy\\c#\\mvc\\studentweb\\studentweb-rauf\\studentweb-rauf\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E8F6D092-9A65-49C5-A378-D81505930FFF}|StudentWEB-rauf\\StudentWEB-rauf.csproj|solutionrelative:studentweb-rauf\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8F6D092-9A65-49C5-A378-D81505930FFF}|StudentWEB-rauf\\StudentWEB-rauf.csproj|c:\\users\\asus\\desktop\\code academy\\c#\\mvc\\rauf\\studentweb\\studentweb-rauf\\studentweb-rauf\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8F6D092-9A65-49C5-A378-D81505930FFF}|StudentWEB-rauf\\StudentWEB-rauf.csproj|solutionrelative:studentweb-rauf\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E8F6D092-9A65-49C5-A378-D81505930FFF}|StudentWEB-rauf\\StudentWEB-rauf.csproj|c:\\users\\asus\\desktop\\code academy\\c#\\mvc\\studentweb\\studentweb-rauf\\studentweb-rauf\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F6D092-9A65-49C5-A378-D81505930FFF}|StudentWEB-rauf\\StudentWEB-rauf.csproj|solutionrelative:studentweb-rauf\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8F6D092-9A65-49C5-A378-D81505930FFF}|StudentWEB-rauf\\StudentWEB-rauf.csproj|c:\\users\\asus\\desktop\\code academy\\c#\\mvc\\rauf\\studentweb\\studentweb-rauf\\studentweb-rauf\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8F6D092-9A65-49C5-A378-D81505930FFF}|StudentWEB-rauf\\StudentWEB-rauf.csproj|solutionrelative:studentweb-rauf\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E8F6D092-9A65-49C5-A378-D81505930FFF}|StudentWEB-rauf\\StudentWEB-rauf.csproj|c:\\users\\asus\\desktop\\code academy\\c#\\mvc\\studentweb\\studentweb-rauf\\studentweb-rauf\\services\\implementations\\coursemoduleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F6D092-9A65-49C5-A378-D81505930FFF}|StudentWEB-rauf\\StudentWEB-rauf.csproj|solutionrelative:studentweb-rauf\\services\\implementations\\coursemoduleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F6D092-9A65-49C5-A378-D81505930FFF}|StudentWEB-rauf\\StudentWEB-rauf.csproj|c:\\users\\asus\\desktop\\code academy\\c#\\mvc\\studentweb\\studentweb-rauf\\studentweb-rauf\\services\\interfaces\\icourseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F6D092-9A65-49C5-A378-D81505930FFF}|StudentWEB-rauf\\StudentWEB-rauf.csproj|solutionrelative:studentweb-rauf\\services\\interfaces\\icourseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F6D092-9A65-49C5-A378-D81505930FFF}|StudentWEB-rauf\\StudentWEB-rauf.csproj|c:\\users\\asus\\desktop\\code academy\\c#\\mvc\\studentweb\\studentweb-rauf\\studentweb-rauf\\services\\interfaces\\icoursemoduleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F6D092-9A65-49C5-A378-D81505930FFF}|StudentWEB-rauf\\StudentWEB-rauf.csproj|solutionrelative:studentweb-rauf\\services\\interfaces\\icoursemoduleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F6D092-9A65-49C5-A378-D81505930FFF}|StudentWEB-rauf\\StudentWEB-rauf.csproj|c:\\users\\asus\\desktop\\code academy\\c#\\mvc\\studentweb\\studentweb-rauf\\studentweb-rauf\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F6D092-9A65-49C5-A378-D81505930FFF}|StudentWEB-rauf\\StudentWEB-rauf.csproj|solutionrelative:studentweb-rauf\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F6D092-9A65-49C5-A378-D81505930FFF}|StudentWEB-rauf\\StudentWEB-rauf.csproj|c:\\users\\asus\\desktop\\code academy\\c#\\mvc\\studentweb\\studentweb-rauf\\studentweb-rauf\\profiles\\customprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F6D092-9A65-49C5-A378-D81505930FFF}|StudentWEB-rauf\\StudentWEB-rauf.csproj|solutionrelative:studentweb-rauf\\profiles\\customprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,53 +55,118 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TeacherController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\Rauf\\StudentWeb\\StudentWEB-rauf\\StudentWEB-rauf\\Controllers\\TeacherController.cs",
-              "RelativeDocumentMoniker": "StudentWEB-rauf\\Controllers\\TeacherController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\Rauf\\StudentWeb\\StudentWEB-rauf\\StudentWEB-rauf\\Controllers\\TeacherController.cs*",
-              "RelativeToolTip": "StudentWEB-rauf\\Controllers\\TeacherController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Title": "20250419115857_12.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\StudentWeb\\StudentWEB-rauf\\StudentWEB-rauf\\Migrations\\20250419115857_12.cs",
+              "RelativeDocumentMoniker": "StudentWEB-rauf\\Migrations\\20250419115857_12.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\StudentWeb\\StudentWEB-rauf\\StudentWEB-rauf\\Migrations\\20250419115857_12.cs",
+              "RelativeToolTip": "StudentWEB-rauf\\Migrations\\20250419115857_12.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T20:02:26.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\Rauf\\StudentWeb\\StudentWEB-rauf\\StudentWEB-rauf\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "StudentWEB-rauf\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\Rauf\\StudentWeb\\StudentWEB-rauf\\StudentWEB-rauf\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "StudentWEB-rauf\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-17T19:59:58.424Z",
+              "WhenOpened": "2025-04-19T11:58:57.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\Rauf\\StudentWeb\\StudentWEB-rauf\\StudentWEB-rauf\\Views\\Course\\Index.cshtml",
-              "RelativeDocumentMoniker": "StudentWEB-rauf\\Views\\Course\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\Rauf\\StudentWeb\\StudentWEB-rauf\\StudentWEB-rauf\\Views\\Course\\Index.cshtml",
-              "RelativeToolTip": "StudentWEB-rauf\\Views\\Course\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\StudentWeb\\StudentWEB-rauf\\StudentWEB-rauf\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentWEB-rauf\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\StudentWeb\\StudentWEB-rauf\\StudentWEB-rauf\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "StudentWEB-rauf\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-17T19:57:39.064Z",
+              "WhenOpened": "2025-04-19T11:58:24.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\Rauf\\StudentWeb\\StudentWEB-rauf\\StudentWEB-rauf\\Views\\Teacher\\Index.cshtml",
-              "RelativeDocumentMoniker": "StudentWEB-rauf\\Views\\Teacher\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\Rauf\\StudentWeb\\StudentWEB-rauf\\StudentWEB-rauf\\Views\\Teacher\\Index.cshtml",
-              "RelativeToolTip": "StudentWEB-rauf\\Views\\Teacher\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\StudentWeb\\StudentWEB-rauf\\StudentWEB-rauf\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentWEB-rauf\\Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\StudentWeb\\StudentWEB-rauf\\StudentWEB-rauf\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "StudentWEB-rauf\\Views\\Course\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-17T19:56:54.794Z",
+              "WhenOpened": "2025-04-19T11:58:12.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\StudentWeb\\StudentWEB-rauf\\StudentWEB-rauf\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "StudentWEB-rauf\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\StudentWeb\\StudentWEB-rauf\\StudentWEB-rauf\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "StudentWEB-rauf\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:57:44.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseModuleServices.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\StudentWeb\\StudentWEB-rauf\\StudentWEB-rauf\\Services\\Implementations\\CourseModuleServices.cs",
+              "RelativeDocumentMoniker": "StudentWEB-rauf\\Services\\Implementations\\CourseModuleServices.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\StudentWeb\\StudentWEB-rauf\\StudentWEB-rauf\\Services\\Implementations\\CourseModuleServices.cs",
+              "RelativeToolTip": "StudentWEB-rauf\\Services\\Implementations\\CourseModuleServices.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:56:18.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICourseServices.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\StudentWeb\\StudentWEB-rauf\\StudentWEB-rauf\\Services\\Interfaces\\ICourseServices.cs",
+              "RelativeDocumentMoniker": "StudentWEB-rauf\\Services\\Interfaces\\ICourseServices.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\StudentWeb\\StudentWEB-rauf\\StudentWEB-rauf\\Services\\Interfaces\\ICourseServices.cs",
+              "RelativeToolTip": "StudentWEB-rauf\\Services\\Interfaces\\ICourseServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:56:03.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICourseModuleServices.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\StudentWeb\\StudentWEB-rauf\\StudentWEB-rauf\\Services\\Interfaces\\ICourseModuleServices.cs",
+              "RelativeDocumentMoniker": "StudentWEB-rauf\\Services\\Interfaces\\ICourseModuleServices.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\StudentWeb\\StudentWEB-rauf\\StudentWEB-rauf\\Services\\Interfaces\\ICourseModuleServices.cs",
+              "RelativeToolTip": "StudentWEB-rauf\\Services\\Interfaces\\ICourseModuleServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:51:27.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\StudentWeb\\StudentWEB-rauf\\StudentWEB-rauf\\data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentWEB-rauf\\data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\StudentWeb\\StudentWEB-rauf\\StudentWEB-rauf\\data\\AppDbContext.cs",
+              "RelativeToolTip": "StudentWEB-rauf\\data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:51:11.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\StudentWeb\\StudentWEB-rauf\\StudentWEB-rauf\\Profiles\\CustomProfile.cs",
+              "RelativeDocumentMoniker": "StudentWEB-rauf\\Profiles\\CustomProfile.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Code Academy\\C#\\MVC\\StudentWeb\\StudentWEB-rauf\\StudentWEB-rauf\\Profiles\\CustomProfile.cs",
+              "RelativeToolTip": "StudentWEB-rauf\\Profiles\\CustomProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:50:51.854Z",
               "EditorCaption": ""
             }
           ]

@@ -25,6 +25,12 @@ namespace StudentWEB_rauf
 
             builder.Services.AddScoped<ITeacherRepository, TeacherRepository>();
             builder.Services.AddScoped<ITeacherServices, TeacherServices>();
+
+            builder.Services.AddScoped<IStudentRepository, StudentRepository>();
+            builder.Services.AddScoped<IStudentServices, StudentServices>();
+
+            builder.Services.AddScoped<ICourseModuleRepository, CourseModuleRepository>();
+            builder.Services.AddScoped<ICourseModuleServices, CourseModuleServices>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

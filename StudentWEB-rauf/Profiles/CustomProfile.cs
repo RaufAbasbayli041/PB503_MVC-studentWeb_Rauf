@@ -10,6 +10,8 @@ namespace StudentWEB_rauf.Profiles
         {
             CreateMap<Course,CourseDTO>().ReverseMap();
             CreateMap<Teacher,TeacherDTO>().ReverseMap();
+            CreateMap<Student,StudentDTO>().ReverseMap();
+            CreateMap<CourseModule, CourseModuleDTO>().ReverseMap();
         }
     }
 }

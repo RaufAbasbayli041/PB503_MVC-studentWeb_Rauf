@@ -2,7 +2,7 @@
 {
     public class Teacher : Person
     {
-        public double Salary { get; set; }
-        public ICollection<Course>? Courses { get; set; }
+        public decimal Salary { get; set; }
+        public ICollection<Course> Courses { get; set; }
     }
 }
